@@ -1,6 +1,6 @@
 ## Molecules. Models. Coffee. Repeat. 👋
 
-Welcome! I’m a computational scientist who spends most of his time designing molecules, decoding protein pockets for hints, and occasionally training machine learning models.
+Welcome! I’m a computational scientist who spends most of his time designing molecules, decoding protein pockets, and occasionally training machine learning models.
 
 ---
 
