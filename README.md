@@ -19,7 +19,7 @@ Welcome! I’m a computational scientist who spends most of his time designing m
   Prep → Run Free energy calcs → Ranked compounds
 - **[MMP analysis scripts]**  
   What makes a molecule better? 
-- **[Drug Ideation]**  
+- **[AI-Molecule Generator]**  
   Use Reinvent4 to generate millions of analogues
 - **[Protein-ligand docking workflow]**  
   All-in-one sketching to docking to MD equilibration
