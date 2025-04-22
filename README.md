@@ -15,14 +15,14 @@ Welcome! I’m a computational scientist who spends most of his time designing m
 
 ## 📂 Featured Repos *(coming soon)*  
 
-- **[FEP toolkit for OpenFE](https://github.com/dbucher1234/openfe-fep-tools)**  
-  Prep → Run → Visualize free energy calcs
-- **[MMP analysis scripts](https://github.com/dbucher1234/mmp-analysis)**  
-  What makes a molecule better? This might help
-- **[Drug-likeness explorer](https://github.com/dbucher1234/druglikeness-notebooks)**  
-  Lipinski, logP, PSA—classic but still useful
-- **[Protein-ligand docking workflow](https://github.com/dbucher1234/docking-pipeline)** 
-  All-in-one docking & visualization setup
+- **[FEP toolkit for OpenFE on AWS]**  
+  Prep → Run Free energy calcs
+- **[MMP analysis scripts]**  
+  What makes a molecule better? 
+- **[Drug Ideation]**  
+  Use Reinvent4 to generate drug-like idea
+- **[Protein-ligand docking workflow]** 
+  All-in-one sketching to docking to MD equilibration
 
 ---
 
