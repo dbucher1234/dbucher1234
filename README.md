@@ -1,16 +1,42 @@
-## Hi there 👋
+## Molecules. Models. Coffee. Repeat. 👋
 
-<!--
-**dbucher1234/dbucher1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I’m a computational scientist who spends most of his time designing molecules, decoding protein pockets for hints, and occasionally training machine learning models.
 
-Here are some ideas to get you started:
+By day, I help push forward drug discovery, mixing structural insights, free energy calculations, and a splash of cheminformatics magic. By night... still tweaking Python scripts, probably.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I do (mostly)
+
+- 🧬 Molecular design (CADD/ML/FEP)
+- 🧠 Properties prediction (targets, ADME/Tox)
+- ⚙️ Build tools (with RDKit, OpenFE, Rosetta, Schrödinger, and friends)
+- ☁️ Run things at scale (hello AWS and multi-GPU workstations)
+
+---
+
+## 📂 Featured Repos *(coming soon)*  
+
+- **[FEP toolkit for OpenFE](https://github.com/dbucher1234/openfe-fep-tools)**  
+  Prep → Run → Visualize free energy calcs
+- **[MMP analysis scripts](https://github.com/dbucher1234/mmp-analysis)**  
+  What makes a molecule better? This might help
+- **[Drug-likeness explorer](https://github.com/dbucher1234/druglikeness-notebooks)**  
+  Lipinski, logP, PSA—classic but still useful
+- **[Protein-ligand docking workflow](https://github.com/dbucher1234/docking-pipeline)** 
+  All-in-one docking & visualization setup
+
+---
+
+## 👀 If you're curious...
+
+You can usually find me thinking about:
+- How to improve PK without killing activity
+- Can free energy methods really help a real-life project
+- Whether that ML model will generalize this time
+
+---
+
+🧑‍🔬 Currently based in Switzerland. 
+
+Thanks for stopping by! – Denis
