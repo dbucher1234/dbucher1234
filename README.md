@@ -20,7 +20,7 @@ Welcome! I’m a computational scientist who spends most of his time designing m
 - **[MMP analysis scripts]**  
   What makes a molecule better? 
 - **[Drug Ideation]**  
-  Use Reinvent4 to generate drug-like idea
+  Use Reinvent4 to generate millions of new drug-like idea
 - **[Protein-ligand docking workflow]** 
   All-in-one sketching to docking to MD equilibration
 
