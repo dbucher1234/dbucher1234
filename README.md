@@ -2,8 +2,6 @@
 
 Welcome! I’m a computational scientist who spends most of his time designing molecules, decoding protein pockets for hints, and occasionally training machine learning models.
 
-By day, I help push forward drug discovery, mixing structural insights, free energy calculations, and a splash of cheminformatics magic. By night... still tweaking Python scripts, probably.
-
 ---
 
 ## 🔧 What I do (mostly)
