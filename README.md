@@ -23,6 +23,8 @@ Welcome! I’m a computational scientist who spends most of his time designing m
   Use Reinvent4 to generate millions of analogues
 - **[Protein-ligand docking workflow]** 
   All-in-one sketching to docking to MD equilibration
+- **[ML model → Web portal]**  
+  Built a predictive model with a chemist-friendly web app
 
 ---
 
