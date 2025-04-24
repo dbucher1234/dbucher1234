@@ -15,7 +15,7 @@ Welcome! I’m a computational scientist who spends most of his time designing m
 
 ## 📂 Featured Repos *(coming soon)*  
 
-- **[FEP workflow on AWS](https://github.com/dbucher1234/openfe-fep-aws)**
+- **[FEP workflow on AWS](https://github.com/dbucher1234/openfe-fep-aws)**  
   Prep → Run Free energy calcs → Ranked compounds
 - **[MMP analysis scripts]**  
   What makes a molecule better? 
