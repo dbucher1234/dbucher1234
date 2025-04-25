@@ -17,14 +17,14 @@ Welcome! I’m a computational scientist who spends most of his time designing m
 
 - **[FEP workflow on AWS](https://github.com/dbucher1234/openfe-fep-aws)**  
   Prep → Run Free energy calcs → Ranked compounds
+- **[ML model → Web portal]**  
+  Built a predictive model with a chemist-friendly web app  
 - **[MMP analysis scripts]**  
   What makes a molecule better? 
 - **[AI-Molecule Generator]**  
   Use Reinvent4 to generate millions of analogues
 - **[Protein-ligand docking workflow]**  
   All-in-one sketching to docking to MD equilibration
-- **[ML model → Web portal]**  
-  Built a predictive model with a chemist-friendly web app
 
 ---
 
