@@ -8,7 +8,7 @@ Welcome! I’m a computational scientist who spends most of his time designing m
 
 - 🧬 Molecular design (CADD/ML/FEP)
 - 🧠 Properties prediction (targets, ADME/Tox)
-- ⚙️ Build tools (with RDKit, OpenFE, Rosetta, Schrödinger, and friends)
+- ⚙️ Build tools (with RDKit, OpenFE, AF/Rosetta, Schrödinger, and friends)
 - ☁️ Run things at scale (hello AWS and multi-GPU workstations)
 
 ---
