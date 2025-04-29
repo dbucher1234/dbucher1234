@@ -26,15 +26,6 @@ Welcome! I’m a computational scientist who spends most of his time designing m
 
 ---
 
-## 👀 If you're curious...
-
-You can usually find me thinking about:
-- How to improve PK without killing activity
-- Can free energy methods help a real-life project
-- Whether that ML model will generalize this time
-
----
-
 🧑‍🔬 Currently based in Switzerland. 
 
 Thanks for stopping by! – Denis
