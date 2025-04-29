@@ -23,8 +23,6 @@ Welcome! I’m a computational scientist who spends most of his time designing m
   What makes a molecule better? 
 - **[AI-Molecule Generator]**  
   Use Reinvent4 to generate millions of analogues
-- **[Protein-ligand docking workflow]**  
-  All-in-one sketching to docking to MD equilibration
 
 ---
 
