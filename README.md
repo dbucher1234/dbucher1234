@@ -18,7 +18,7 @@ Welcome! I’m a computational scientist who spends most of his time designing m
 - **[FEP workflow on AWS](https://github.com/dbucher1234/openfe-fep-aws)**  
   Prep → Run Free energy calcs → Ranked compounds
 - **[ML model → Web portal](https://github.com/dbucher1234/ml-web-portal)**  
-  Permeability model from 3D polar surface with a chemist-friendly web app  
+  Permeability model from 3D polar surface into a chemist-friendly web app  
 - **[MMP analysis scripts]**  
   What makes a molecule better? 
 - **[AI-Molecule Generator]**  
