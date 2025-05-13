@@ -9,7 +9,7 @@ Hi! I’m a computational scientist working at the intersection of molecular des
 - 🧬 Designing molecules (CADD, ML, FEP)
 - 🧠 Predicting molecular properties (targets, ADME/Tox)
 - ⚙️ Building tools with RDKit, OpenFE, AlphaFold/Rosetta, Schrödinger & more
-- ☁️ Scaling workflows on multi-GPU systems and in the cloud
+- ☁️ Scaling workflows on multi-GPU systems
 
 ---
 
