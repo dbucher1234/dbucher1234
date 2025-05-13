@@ -1,29 +1,28 @@
 ## Molecules. Models. Coffee. Repeat. 👋
 
-Welcome! I’m a computational scientist who spends most of his time designing molecules, decoding protein pockets, and occasionally training machine learning models.
+Hi! I’m a computational scientist working at the intersection of molecular design, structural biology, and machine learning.
 
 ---
 
-## 🔧 What I do (mostly)
+## 🔧 What I focus on
 
-- 🧬 Molecular design (CADD/ML/FEP)
-- 🧠 Properties prediction (targets, ADME/Tox)
-- ⚙️ Build tools (with RDKit, OpenFE, AF/Rosetta, Schrödinger, and friends)
-- ☁️ Run things at scale (hello AWS and multi-GPU workstations)
+- 🧬 Designing molecules (CADD, ML, FEP)
+- 🧠 Predicting molecular properties (targets, ADME/Tox)
+- ⚙️ Building tools with RDKit, OpenFE, AlphaFold/Rosetta, Schrödinger & more
+- ☁️ Scaling workflows on multi-GPU systems and in the cloud
 
 ---
 
 ## 📂 Featured Repos  
 
 - **[FEP workflow on AWS](https://github.com/dbucher1234/openfe-fep-aws)**  
-  Predict affinity and rank compounds in the cloud.
+  Cloud-based affinity prediction and compound ranking
 - **[ML model → Web portal](https://github.com/dbucher1234/ml-web-portal)**  
-  Permeability model from 3D polar surface into a chemist-friendly web app.  
-- **[AI-Molecule Generator](https://github.com/dbucher1234/AI_molecular_generator)**  
-  Use Reinvent4 to generate original ideas for analogues.
+  A permeability predictor turned into a chemist-friendly app  
+- **[AI Molecule Generator](https://github.com/dbucher1234/AI_molecular_generator)**  
+  Tutorials and workflows using REINVENT4 to generate analogs
 
 ---
 
 🧑‍🔬 Currently based in Switzerland. 
-
-Thanks for stopping by! – Denis
+Thanks for visiting! — Denis
