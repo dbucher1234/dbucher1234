@@ -20,7 +20,7 @@ Hi! I’m a computational scientist working at the intersection of molecular des
 - **[ML model → Web portal](https://github.com/dbucher1234/ml-web-portal)**  
   A permeability predictor turned into a chemist-friendly app  
 - **[AI Molecule Generator](https://github.com/dbucher1234/AI_molecular_generator)**  
-  Tutorials using REINVENT4 to generate analogs
+  Tutorial using REINVENT4 to generate analogs
 
 ---
 
