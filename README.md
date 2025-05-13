@@ -24,5 +24,5 @@ Hi! I’m a computational scientist working at the intersection of molecular des
 
 ---
 
-🧑‍🔬 Currently based in Switzerland. 
+🧑‍🔬 Currently based in Switzerland.   
 Thanks for visiting! — Denis
