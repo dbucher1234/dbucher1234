@@ -19,7 +19,7 @@ Welcome! I’m a computational scientist who spends most of his time designing m
   Predict affinity and rank compounds in the cloud.
 - **[ML model → Web portal](https://github.com/dbucher1234/ml-web-portal)**  
   Permeability model from 3D polar surface into a chemist-friendly web app  
-- **[AI-Molecule Generator]**  
+- **[AI-Molecule Generator](https://github.com/dbucher1234/AI_molecular_generator)**
   Use Reinvent4 to generate original ideas for analogues
 
 ---
